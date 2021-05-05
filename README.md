@@ -33,7 +33,7 @@
 
 ## Sobre o projeto
 <p align="center">
-<img src="https://github.com/JulianaAmoriN/Hackthon-Pravaler/blob/main/pravaler/public/pravaler.png?raw=true" >
+<img src="https://github.com/JulianaAmoriN/Hackthon-Pravaler/blob/main/pravaler/public/pravaler.png?raw=true" width="300" height="150">
 </p>
 
 Projeto  desenvolvido durante o **Talent Fest da  [Laboratória](https://www.laboratoria.la/br)**. 
